@@ -1,0 +1,3 @@
+Error in urn_mavedb_00000054-a-1_scores.csv :Unexpected pattern in 8558 aaChg, ref = Thr, pos = 2: p.Thr2Ter
+Error in urn_mavedb_00000054-a-1_scores.csv :Unexpected pattern in 8660 aaChg, ref = Met, pos = 1: p.Met1Ter
+finished gene PTEN, file: urn_mavedb_00000054-a-1_scores.csv, dropped 2 variants
