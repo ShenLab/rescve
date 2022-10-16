@@ -21,6 +21,6 @@ For MSA, we provided the files here: https://drive.google.com/file/d/1iu32tVQZ_N
 ## Run
 To run the code, please use the following command:
 ```
-python RESVCE.py --mode Required --device Optional --seed Optional
+python RESCVE.py --mode Required --device Optional --seed Optional
 ```
 Please check the comments in the file `RESCVE.py` for more details about which mode to use.
